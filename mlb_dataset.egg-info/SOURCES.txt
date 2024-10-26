@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+mlb_dataset/__init__.py
+mlb_dataset/download_videos.py
+mlb_dataset/extract_continuous_videos.py
+mlb_dataset/extract_segmented_videos.py
+mlb_dataset/utils.py
+mlb_dataset.egg-info/PKG-INFO
+mlb_dataset.egg-info/SOURCES.txt
+mlb_dataset.egg-info/dependency_links.txt
+mlb_dataset.egg-info/requires.txt
+mlb_dataset.egg-info/top_level.txt
