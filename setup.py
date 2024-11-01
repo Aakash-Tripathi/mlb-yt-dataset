@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="mlb_dataset",
-    version="0.1.0",
+    version="0.1.1",
     description="A Python package for downloading and processing MLB dataset videos.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
